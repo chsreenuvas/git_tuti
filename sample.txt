@@ -1,0 +1,16 @@
+###Git:
+-git is version control maneger
+-github is romete repository or store
+-repo is project folder or package
+-github is one example of remote repository hosting service or store it.
+#Elements of git
+1.remote repository
+2.local repository
+3.staging area
+4.working directory
+
+-single file needy file send to local repository to remote repository
+-git status : unsaved file or its shown working directory file
+-working directory to staging area transfer single file using git add filename
+-staging area: it is transfer file working directory to local directory using commit
+-remote repository: it is transfer files local repository to remote repository using push
